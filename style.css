@@ -304,3 +304,10 @@ input {
     z-index: 1;
 }
 
+.def__sities {
+    height: 600px;
+    margin-top: 20px;
+    color: #000;
+    font-weight: bold;
+    background: url(/img/3810243_63241-650x0.jpg) no-repeat top center;
+}
